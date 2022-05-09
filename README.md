@@ -1,4 +1,4 @@
-<p align="center"><a href="https://youtu.be/W92XhsD7yh0" target="_blank"><img src="https://github.com/kthenurseone/coinmarketcap_trending_bot/blob/main/1.png?raw=true"></a></p>
+<p align="center"><a href="https://youtu.be/W92XhsD7yh0" target="_blank"><img src="https://github.com/kthenurseone/coinmarketcap_trending_bot/blob/main/CoinMarketCap_Trending_and_Most_Searched_BOT_coinmarketcap_c.gif?raw=true"></a></p>
 
 <p align="center">
     <a href="https://www.python.org/downloads/release/python-380/"><img src="https://img.shields.io/badge/python-3.8-blue.svg?style=plastic" alt="Python version"></a>
