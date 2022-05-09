@@ -33,7 +33,9 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 1) Get proxies from [proxy website](https://www.webshare.io/?referral_code=vo97dv1113lj)
 2) Get licence from [@kthenurseone](https://t.me/kthenurseone)
 3) Edit settings.ini and type your token name and proxy.
-4) 
+
+
+
 
 ## Images
 ![Telegram Message Bot](https://github.com/kthenurseone/coinmarketcap_trending_bot/blob/main/1.png?raw=true)
